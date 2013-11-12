@@ -68,15 +68,15 @@ in an archive for convience if anyone wants them.
 	
 STEP Wearable Lanterns Patch
 
-Forward all Worldspace edits from DLC and unofficial patches
-Forward all Cell edits from DLC and unofficial patches
+	-	Forward all Worldspace edits from DLC and unofficial patches
+	-	Forward all Cell edits from DLC and unofficial patches
 
 STEP SoS Patch
 
-Forwrad all Worldspace edits from DLC and unofficial pathes
-Forward all Cell edits from DLC and unofficial patches
-Forward all Region edits from the DLC and unofficial patches
+	-	Forwrad all Worldspace edits from DLC and unofficial pathes
+	-	Forward all Cell edits from DLC and unofficial patches
+	-	Forward all Region edits from the DLC and unofficial patches
 
 STEP WL-SoS Patch
 
-Combined version of Wearable Lanterns Patch and SoS Patch.
+	-	Combined version of Wearable Lanterns Patch and SoS Patch.
