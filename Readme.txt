@@ -12,6 +12,10 @@ Draognborn.
 For now Dialog, Quest and Navagation meshes left out unless obvious patching could be made. More expeirenced users with better
 knowledge of of those areas will have to submit that for use.
 
+Installation:	Use a mod manager to install the prefered plugin. Do not use more than one of the provided plugins together or they will conflict with each other.
+		Bashed Patch users:	Add a Stats tag to the Core or Extended patches if there is not one already, if using import stats make sure that the patch is the
+					last plugin listed so it will have all it's changes added to the Bashed Patch.
+
 
 STEP: CORE Patch
 
@@ -35,9 +39,9 @@ STEP: Extended Patch
 	-	Forward info count from Dawnguard that conflicted with Dragons Shout with Voice on 'Dialog Topic -> PushRoDah'
 	-	Forward any weapon or armor fixes from WAF over USKP since they do the same thing and WAF has stat changes that need to be present in any patch where there is a mod farther down that changes the same record
 		-	Few exceptions were made:	Blade of Woe, USKP adds MaterialDaedric instead of MaterialEbony
-										Dawnguard Armor and Weapon descriptions were removed so enchantments could be seen and the bonuses are now a listed in load screens after starting the DG quest
-										DisallowEnchanting added to some items from USKP that were not in WAF, example Wuuthrad
-										Object bounds that USKP fixed were forwarded since WAF used the vanilla ones
+			(most of these changes		Dawnguard Armor and Weapon descriptions were removed so enchantments could be seen and the bonuses are now a listed in load screens after starting the DG quest
+			are also in Core Patch)		DisallowEnchanting added to some items from USKP that were not in WAF, example Wuuthrad
+							Object bounds that USKP fixed were forwarded since WAF used the vanilla ones
 	-	Forward many fixes from USKP not in More Salt Please on 'Container'
 	-	Resolved conflict between SMIM Tern Fix and Ars Metallica - Dragonborn on 'Container' to forward SMIM meshe
 	-	Forward many fixes from USKP not in Clanking Armor on 'Armor Addon' to correct Biped Body Template
@@ -47,7 +51,8 @@ STEP: Extended Patch
 
 
 	
-Each of the following three patches forward the changes made by DLC and the unofficial patches v2.0.
+Each of the following three patches forward the changes made by DLC and the unofficial patches v2.o. Use only one of these patches
+at a time or they will conflict and defeat the purpose of a patch all together.
 
 	
 STEP Wearable Lanterns Patch
