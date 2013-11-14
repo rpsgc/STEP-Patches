@@ -24,7 +24,9 @@ STEP: CORE Patch
 	-	Forward all Region edits from the DLC and unofficial patches
 	-	Forward fixes from USKP that conflicts with Soul Gems Differ for 'Object Bounds'
 	-	Forward fixes from WAF or USKP were needed, most from WAF except because it also has stat changes. USKP fixes were forwarded where it made sense like object bounds and description fixes.
-
+	-	Merged WAF-GDO compatibility patch to eliminate plugin
+	-	Merged WAF-AMB Skyforge Weapons patch to eliminate plugin
+	-	Merged Diverse Priests-Consistent Older People patch to eliminate plugin
 	
 STEP: Extended Patch
 
@@ -48,7 +50,11 @@ STEP: Extended Patch
 	-	Resolved Conflict between Blessings - Altar Descriptions and The Choice is Yours on 'Acitvator', forward description change from Altar Descriptions
 	-	Forward two fixes from USKP not in Disease Descriptions on 'Spell' for Witbane and Witbane (magicka regen halved)
 	-	Forward fix from USKP not in UHFP yet for 'NPC' Gralnach for tint layers and missing item (key to mill).
-
+	-	Merged Diverse Priests-BYOD patch to eliminate plugin
+	-	Merged EBQO-Non-Essential Killable Children patch to eliminate plugin
+	-	Merged EBQO-Parthunaax Dilemma patch to eliminate plugin
+	-	Merged EBQO-DB Forever Misc patch to eliminate plugin
+	-	Merged EBQO-AMB Skyforge Weapons patch to eliminate plugin
 
 	
 Each of the following three patches forward the changes made by DLC and the unofficial patches v2.o. Use only one of these patches
