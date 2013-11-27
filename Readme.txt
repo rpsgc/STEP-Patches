@@ -1,5 +1,5 @@
 STEP Patches for STEP 2.2.7
->Submitted on November 14, 2013
+>Submitted on November 26, 2013
 
 
 All patches provided as is and were made with the Skyrim Total Enhancement Project in mind. That being said 
@@ -34,6 +34,7 @@ Installation:	Use a mod manager to install the prefered plugin. DO NOT use more 
 
 STEP: CORE Patch	
 
+	-	Nov. 26 Update:	Now compatible with Weapon and Armor Fixes 4.0, minimal changes were needed.
 	-	Forwrad all Worldspace edits from DLC and unofficial pathes
 	-	Forward all Cell edits from DLC and unofficial patches
 	-	Forward all Region edits from the DLC and unofficial patches
@@ -47,6 +48,7 @@ STEP: CORE Patch
 	
 STEP: Extended Patch
 
+	-	Nov. 26 Update:	Now compatible with Weapon and Armor Fixes 4.0, minimal changes were needed.
 	-	Everything from STEP: CORE Patch carried over
 	-	Forward many fixes from USKP not in Wearable Lanterns on 'Cell' for lantern positions and on 'Worldspace' for location names
 	-	Forward many fixes from USKP not in all three SoS mods on 'Cell' for names and 'Worldspace' for location names and weather data
@@ -76,7 +78,7 @@ STEP: Extended Patch
 	-	Merged EBQO-AMB Skyforge Weapons patch to eliminate plugin
 
 	
-Each of the following three patches forward the changes made by DLC and the unofficial patches v2.o. Use only one of these patches
+Each of the following three patches forward the changes made by DLC and the unofficial patches v2.0. Use only one of these patches
 at a time or they will conflict and defeat the purpose of a patch all together. They have the STEP name on them, but really it just
 patches a couple mods with the unofficial patches v2.0. Anyone can use them any way they want without permission.
 
