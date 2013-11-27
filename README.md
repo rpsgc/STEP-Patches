@@ -12,23 +12,24 @@ Draognborn.
 Installation:        Use a mod manager to install the prefered plugin. DO NOT use more than one of the provided plugins together or
                                 they will conflict or overwrtie each other.
                                 
-                                >>CORE PATCH USERS:                Disable Weapon & Armor Fixes/Guard Dialog Overhaul Patch
-                                                                                Disable Weapon & Armor Fixes/aMidianBorn Skyforge Weapons Patch
-                                                                                Disable Diverse Priests/Consistent Older People patch
-                                                                                These three patches are merged into the STEP Core Patch so they can be disabled or deleted.
+                                >>CORE PATCH USERS:             Disable Weapon & Armor Fixes/Guard Dialog Overhaul                                                                      Patch
+                                                                Disable Weapon & Armor Fixes/aMidianBorn Skyforge                                                                       Weapons Patch
+                                                                Disable Diverse Priests/Consistent Older People patch
+                                                                   
+                                                                These three patches are merged into the STEP Core Patch                                                                 so they can be disabled or deleted.
                                                                                 
-                                >>EXTENDED PATCH USERS:        Disable Weapon & Armor Fixes/Guard Dialog Overhaul Patch
-                                                                                Disable Weapon & Armor Fixes/aMidianBorn Skyforge Weapons Patch
-                                                                                Disable Diverse Priests/Consistent Older People patch
-                                                                                Disable Diverse Priests/Bring Out Your Dead patch
-                                                                                Disable Even Better Quest Objectives/Non-Essential Killable Children Patch
-                                                                                Disable Even Better Quest Objectives/Paarthurnax Dilemma Patch
-                                                                                Disable Even Better Quest Objectives/DB Forever Misc Patch
-                                                                                Disable Even Better Quest Objectives/aMidianBorn Skyforge Weapons Patch
-                                                                                These eight patches are merged into the STEP Extended Patch so they can be disabled or deleted.
+                                >>EXTENDED PATCH USERS:         Disable Weapon & Armor Fixes/Guard Dialog Overhaul Patch
+                                                                Disable Weapon & Armor Fixes/aMidianBorn Skyforge Weapons Patch
+                                                                Disable Diverse Priests/Consistent Older People patch
+                                                                Disable Diverse Priests/Bring Out Your Dead patch
+                                                                Disable Even Better Quest Objectives/Non-Essential Killable Children Patch
+                                                                Disable Even Better Quest Objectives/Paarthurnax Dilemma Patch
+                                                                Disable Even Better Quest Objectives/DB Forever Misc Patch
+                                                                Disable Even Better Quest Objectives/aMidianBorn Skyforge Weapons Patch
+                                                                These eight patches are merged into the STEP Extended Patch so they can be disabled or deleted.
                 
-                                >>Bashed Patch users:        Add a Stats tag to the Core or Extended patches if there is not one already, if using
-                                                                                import stats make sure that the patch is the last plugin listed so it will have all its
+                                >>Bashed Patch users:           Add a Stats tag to the Core or Extended patches if there is not one already, if using
+                                                                import stats make sure that the patch is the last plugin listed so it will have all its
                                                                                 changes added to the Bashed Patch.
 
 
