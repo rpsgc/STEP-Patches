@@ -36,6 +36,16 @@ STEP: CORE Patch
 
 	-	Nov. 26 Update:	Now compatible with Weapon and Armor Fixes 4.0, minimal changes were needed.
 	-	Forwrad all Worldspace edits from DLC and unofficial pathes
+		-	Forward additional Location names from Hearthfire for greater compatibiltiy with all mods
+			-	0000003C:	Block -1,-1:	Sub-Block -1,-3:	00009BD6
+																00009BF7
+							Block -1,0:		Sub-Block -1,2:		000092B2
+																000092B3
+							Block 0,0:		Sub-Block 0,1:		000090A5
+																000090C4
+											Sub-Block 1,1:		000090A4
+			-	These are to avoid houses disappearing if Hearthfire loactions do not exist. If another mod makes changes to these records the
+				changes will need to be forwarded.
 	-	Forward all Cell edits from DLC and unofficial patches
 	-	Forward all Region edits from the DLC and unofficial patches
 	-	Forward fixes from USKP that conflicts with Soul Gems Differ for 'Object Bounds'
