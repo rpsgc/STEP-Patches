@@ -105,9 +105,6 @@ STEP SoS Patch
 This patch is unsupported, but is compatible with the unofficial patches and Sounds of Skyrim. This can be used with STEP Core ONLY.
 The changes in this patch are included in the STEP Extended Patch.
 
-
-STEP SoS Patch
-
 Install this patch with STEP Core Patch only. Load after the STEP Core Patch.
 
 Forwrad all Worldspace edits from DLC and unofficial pathes
