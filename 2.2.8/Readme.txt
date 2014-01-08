@@ -4,17 +4,17 @@ STEP Patches for STEP 2.2.8
 
 All patches provided as is and were made with the Skyrim Total Enhancement Project in mind. The STEP CORE Patch was made for
 users with every STEP CORE mod installed. The STEP Extended Patch was made for users with every STEP CORE + Extended mod
-installed. All patches are for users with all three Skyrim DLC: Dawngurad, Hearthfire, and Draognborn.
+installed. All patches are for users with all three Skyrim DLC: Dawnguard, Hearthfire, and Dragonborn.
 
 Credits:		Everyone who creates mods that make Skyrim constantly more beautiful and fun. (and that need patching)
 				The STEP Team
 				
-Permission:		STEP Pack Authors:		STEP Packs are built on top of STEP Packs, so any pack can have it's own patch built off of
-										the STEP Core Patch. Refer to STEP Moderator EssArrBee for any questions.
+Permission:		STEP Pack Authors:		STEP Packs are built on top of STEP Core, so any pack can have it's own patch built off of
+										the STEP Core Patch. Refer to STEP Moderator EssArrBee for any questions or requests.
 				
 				Everyone else:			Make magic and use them how ever you like, just do not distribute the official versions elsewhere
 										or to other STEP users. Direct them to the STEP Nexus page or STEP Patches GitHub page for the
-										official versions.
+										official versions. Refer to STEP Moderator EssArrBee for any questions or requests.
 
 Requirements:	STEP Core Patch:		Skyrim with all DLC. STEP Core installed.
 				STEP Extended Patch:	Skyrim with all DLC. STEP Core and Extended installed.
@@ -25,20 +25,22 @@ Installation:	Use a mod manager to install the prefered plugin.
 
 				DO NOT USE MORE THAN ONE of the provided plugins together or they will conflict and overwrtie each other.
 				
-				>>CORE PATCH USERS:		Disable Weapon & Armor Fixes/Guard Dialog Overhaul Patch
-										Disable Weapon & Armor Fixes/aMidianBorn Skyforge Weapons Patch
-										Disable Diverse Priests/Consistent Older People patch
-										These three patches are merged into the STEP Core Patch so they can be disabled or deleted.
+				>>CORE PATCH USERS:		All patches from STEP Core 2.2.7 were merged into this patch, those patches are listed below:
+											-	Weapon & Armor Fixes/Guard Dialog Overhaul Patch
+											-	Weapon & Armor Fixes/aMidianBorn Skyforge Weapons Patch
+											-	Diverse Priests/Consistent Older People patch
+										*If these patches were downloaded and installed either untick them or uninstall them.
 										
-				>>EXTENDED PATCH USERS:	Disable Weapon & Armor Fixes/Guard Dialog Overhaul Patch
-										Disable Weapon & Armor Fixes/aMidianBorn Skyforge Weapons Patch
-										Disable Diverse Priests/Consistent Older People patch
-										Disable Diverse Priests/Bring Out Your Dead patch
-										Disable Even Better Quest Objectives/Non-Essential Killable Children Patch
-										Disable Even Better Quest Objectives/Paarthurnax Dilemma Patch
-										Disable Even Better Quest Objectives/DB Forever Misc Patch
-										Disable Even Better Quest Objectives/aMidianBorn Skyforge Weapons Patch
-										These eight patches are merged into the STEP Extended Patch so they can be disabled or deleted.
+				>>EXTENDED PATCH USERS:	All patches from STEP Extended 2.2.7 were merged into this patch, those patches are listed below:
+											-	Weapon & Armor Fixes/Guard Dialog Overhaul Patch
+											-	Weapon & Armor Fixes/aMidianBorn Skyforge Weapons Patch
+											-	Diverse Priests/Consistent Older People patch
+											-	Diverse Priests/Bring Out Your Dead patch
+											-	Even Better Quest Objectives/Non-Essential Killable Children Patch
+											-	Even Better Quest Objectives/Paarthurnax Dilemma Patch
+											-	Even Better Quest Objectives/DB Forever Misc Patch
+											-	Even Better Quest Objectives/aMidianBorn Skyforge Weapons Patch
+										*If these patches were downloaded and installed either untick them or uninstall them.
 		
 				>>Bashed Patch users:	Wrye Bash users should make sure that the any of these patches load right before the Bashed Patch. When
 										creating the bashed patch, untick the stats checkbox. Create the rest of the bashed patch normally.
@@ -70,7 +72,7 @@ STEP: CORE Patch
 	-	Merged WAF-AMB Skyforge Weapons patch to eliminate plugin
 	-	Merged Diverse Priests-Consistent Older People patch to eliminate plugin
 	
-STEP: Extended Patch (this patch is imcomplete as of jan 7)
+STEP: Extended Patch (this patch is imcomplete as of jan 8)
 
 	-	Jan. 07 2014 Update:	Now compatible with Wearable Lanterns 3.0 and Skyrim Coin Replacer Redux instead of Skyrim Coin Replacer.
 	-	Nov. 26 2013 Update:	Now compatible with Weapon and Armor Fixes 4.0, minimal changes were needed.

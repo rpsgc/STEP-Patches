@@ -5,17 +5,17 @@ STEP Patches for STEP 2.2.7
 
 All patches provided as is and were made with the Skyrim Total Enhancement Project in mind. The STEP CORE Patch was made for
 users with every STEP CORE mod installed. The STEP Extended Patch was made for users with every STEP CORE + Extended mod
-installed. All patches are for users with all three Skyrim DLC: Dawngurad, Hearthfire, and Draognborn.
+installed. All patches are for users with all three Skyrim DLC: Dawnguard, Hearthfire, and Dragonborn.
 
 Credits:		Everyone who creates mods that make Skyrim constantly more beautiful and fun. (and that need patching)
 				The STEP Team
 				
-Permission:		STEP Pack Authors:		STEP Packs are built on top of STEP Packs, so any pack can have it's own patch built off of
-										the STEP Core Patch. Refer to STEP Moderator EssArrBee for any questions.
+Permission:		STEP Pack Authors:		STEP Packs are built on top of STEP Core, so any pack can have it's own patch built off of
+										the STEP Core Patch. Refer to STEP Moderator EssArrBee for any questions or requests.
 				
 				Everyone else:			Make magic and use them how ever you like, just do not distribute the official versions elsewhere
 										or to other STEP users. Direct them to the STEP Nexus page or STEP Patches GitHub page for the
-										official versions.
+										official versions. Refer to STEP Moderator EssArrBee for any questions or requests.
 
 Requirements:	STEP Core Patch:		Skyrim with all DLC. STEP Core installed.
 				STEP Extended Patch:	Skyrim with all DLC. STEP Core and Extended installed.
