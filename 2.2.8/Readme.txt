@@ -1,5 +1,6 @@
 STEP Patches for STEP 2.2.8
 >Submitted on January 7, 2014
+>Latest revision on January 12, 2014
 
 
 All patches provided as is and were made with the Skyrim Total Enhancement Project in mind. The STEP CORE Patch was made for
@@ -25,21 +26,21 @@ Installation:	Use a mod manager to install the prefered plugin.
 
 				DO NOT USE MORE THAN ONE of the provided plugins together or they will conflict and overwrtie each other.
 				
-				>>CORE PATCH USERS:		All patches from STEP Core 2.2.7 were merged into this patch, those patches are listed below:
-											-	Weapon & Armor Fixes/Guard Dialog Overhaul Patch
-											-	Weapon & Armor Fixes/aMidianBorn Skyforge Weapons Patch
-											-	Diverse Priests/Consistent Older People patch
+				>>CORE PATCH USERS:		All patches from STEP Core 2.2.8 were merged into this patch, those patches are listed below:
+											-	Disable WeaponArmorFixes_ambSkyforge_Patch.esp
+											-	Disable WeaponArmorFixes_GuardDialogueOverhaul_Patch.esp
+											-	Disable DiversePriests_ConsistentOlderPeoplePatch.esp
 										*If these patches were downloaded and installed either untick them or uninstall them.
 										
-				>>EXTENDED PATCH USERS:	All patches from STEP Extended 2.2.7 were merged into this patch, those patches are listed below:
-											-	Weapon & Armor Fixes/Guard Dialog Overhaul Patch
-											-	Weapon & Armor Fixes/aMidianBorn Skyforge Weapons Patch
-											-	Diverse Priests/Consistent Older People patch
-											-	Diverse Priests/Bring Out Your Dead patch
-											-	Even Better Quest Objectives/Non-Essential Killable Children Patch
-											-	Even Better Quest Objectives/Paarthurnax Dilemma Patch
-											-	Even Better Quest Objectives/DB Forever Misc Patch
-											-	Even Better Quest Objectives/aMidianBorn Skyforge Weapons Patch
+				>>EXTENDED PATCH USERS:	All patches from STEP Extended 2.2.8 were merged into this patch, those patches are listed below:
+											-	Disable WeaponArmorFixes_ambSkyforge_Patch.esp
+											-	Disable WeaponArmorFixes_GuardDialogueOverhaul_Patch.esp
+											-	Disable DiversePriests_ConsistentOlderPeoplePatch.esp
+											-	Disable DiversePriests_BringOutYourDeadPatch.esp
+											-	Disable BetterQuestObjectives-NECPatch.esp
+											-	Disable BetterQuestObjectives-PaarDilemmaPatch.esp
+											-	Disable BetterQuestObjectives-DBForevertoMisc.esp
+											-	Disable BetterQuestObjectives-AMBSkyforgePatch.esp
 										*If these patches were downloaded and installed either untick them or uninstall them.
 		
 				>>Bashed Patch users:	Wrye Bash users should make sure that the any of these patches load right before the Bashed Patch. When
