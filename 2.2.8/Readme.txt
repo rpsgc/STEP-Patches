@@ -1,6 +1,6 @@
 STEP Patches for STEP 2.2.8
 >Submitted on January 7, 2014
->Latest revision on January 12, 2014
+>Latest revision on January 26, 2014
 
 
 All patches provided as is and were made with the Skyrim Total Enhancement Project in mind. The STEP CORE Patch was made for
@@ -10,12 +10,17 @@ installed. All patches are for users with all three Skyrim DLC: Dawnguard, Heart
 Credits:		Everyone who creates mods that make Skyrim constantly more beautiful and fun. (and that need patching)
 				The STEP Team
 				
-Permission:		STEP Pack Authors:		STEP Packs are built on top of STEP Core, so any pack can have it's own patch built off of
-										the STEP Core Patch. Refer to STEP Moderator EssArrBee for any questions or requests.
+Permission:		STEP Pack Authors:		Any supplemental patch using these patches must be distributed by Official STEP channels such as
+										the STEP Nexus page, forum, or wiki. STEP Packs are built on top of STEP Core, so any pack can
+										have it's own patch built from the STEP Core Patch. It is no longer possible to build a off of
+										this patch without it being a master, instead use the Core patch as the new patch and rename it
+										when complete. Refer to STEP Moderator EssArrBee for any questions or requests.
 				
-				Everyone else:			Make magic and use them how ever you like, just do not distribute the official versions elsewhere
-										or to other STEP users. Direct them to the STEP Nexus page or STEP Patches GitHub page for the
-										official versions. Refer to STEP Moderator EssArrBee for any questions or requests.
+				Everyone else:			This patch merges plugins with permission from Brumbek author of SMIM, so using any texture set or
+										mesh from SMIM that is included in this patch requires permission. With that being said, every other
+										part is free to use. Make magic and use them how ever you like, just do not distribute the official
+										versions elsewhere or to other STEP users. Direct them to the STEP Nexus page or STEP Patches GitHub
+										page for the official versions. Refer to STEP Moderator EssArrBee for any questions or requests.
 
 Requirements:	STEP Core Patch:		Skyrim with all DLC. STEP Core installed.
 				STEP Extended Patch:	Skyrim with all DLC. STEP Core and Extended installed.
@@ -30,6 +35,7 @@ Installation:	Use a mod manager to install the prefered plugin.
 											-	Disable WeaponArmorFixes_ambSkyforge_Patch.esp
 											-	Disable WeaponArmorFixes_GuardDialogueOverhaul_Patch.esp
 											-	Disable DiversePriests_ConsistentOlderPeoplePatch.esp
+											-	Disable 
 										*If these patches were downloaded and installed either untick them or uninstall them.
 										
 				>>EXTENDED PATCH USERS:	All patches from STEP Extended 2.2.8 were merged into this patch, those patches are listed below:
@@ -49,9 +55,22 @@ Installation:	Use a mod manager to install the prefered plugin.
 
 STEP: CORE Patch	
 
-	-	Changes from 2.2.7:		Remove edits for WATER or Aquisitive Soul Gems that were in Core Patch.
+	-	Changes from 2.2.7:		This patch now includes both SMIM plugins for snowy chests and for Dragonborn Falseed Tern, because of this
+								permissions have changed. (see above)
+								Disable or remove these two plugins:
+									-	StaticMeshImprovementMod-FurnitureChestSnowFix.esp
+									-	StaticMeshImprovementMod-DragonbornTernFix.esp
+								Remove edits for WATER or Aquisitive Soul Gems that were in Core Patch.
+								Remove dependency on Improved Closedface Helmets plugins. Use the Legendary patch provided by Weapon & Armor
+								Fixes by kryptopyr.
 								Forward a few locations that were not in RWT.
-
+								Patched mods that were in conflict with Audio Overhaul for Skyrim.
+									-	Realistic Water Two
+									-	Better Weapon Swing Sounds
+									-	Imrpoved Combat Sounds
+									-	Smooth Blade Draw & Sheathe
+									-	Better Weapon Impact Effects
+									
 	-	Forwrad all Worldspace edits from DLC and unofficial pathes
 		-	Forward additional Location names from Hearthfire for greater compatibiltiy with all mods
 			-	0000003C:	Block -1,-1:	Sub-Block -1,-3:	00009BD6
