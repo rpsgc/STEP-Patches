@@ -1,13 +1,16 @@
 STEP Patches for STEP 2.2.8
->Submitted on January 7, 2014
->Latest revision on January 26, 2014
+
+>STEP 2.2.7 Final Version	-	Submitted on January 7, 2014
+>STEP 2.2.8 Final Version	-	Submitted on January 31, 2014
+
+>Latest revision on January 31, 2014 
 
 
 All patches provided as is and were made with the Skyrim Total Enhancement Project in mind. The STEP CORE Patch was made for
 users with every STEP CORE mod installed. The STEP Extended Patch was made for users with every STEP CORE + Extended mod
 installed. All patches are for users with all three Skyrim DLC: Dawnguard, Hearthfire, and Dragonborn.
 
-Credits:		Everyone who creates mods that make Skyrim constantly more beautiful and fun. (and that need patching)
+Credits:		Everyone who creates mods that constantly make Skyrim more beautiful and fun. (and that need patching)
 				The STEP Team
 				
 Permission:		STEP Pack Authors:		Any supplemental patch using these patches must be distributed by Official STEP channels such as
@@ -24,7 +27,7 @@ Permission:		STEP Pack Authors:		Any supplemental patch using these patches must
 
 Requirements:	STEP Core Patch:		Skyrim with all DLC. STEP Core installed.
 				STEP Extended Patch:	Skyrim with all DLC. STEP Core and Extended installed.
-				STEP SoS Patch:			Skyrim. All three Sounds of Skyrim mods installed.
+				STEP SoS Patch:			Skyrim. All three Sounds of Skyrim mods and Unofficial Patches installed.
 
 
 Installation:	Use a mod manager to install the prefered plugin. 
@@ -32,21 +35,27 @@ Installation:	Use a mod manager to install the prefered plugin.
 				DO NOT USE MORE THAN ONE of the provided plugins together or they will conflict and overwrtie each other.
 				
 				>>CORE PATCH USERS:		All patches from STEP Core 2.2.8 were merged into this patch, those patches are listed below:
-											-	Disable WeaponArmorFixes_ambSkyforge_Patch.esp
-											-	Disable WeaponArmorFixes_GuardDialogueOverhaul_Patch.esp
-											-	Disable DiversePriests_ConsistentOlderPeoplePatch.esp
-											-	Disable 
+											-	WeaponArmorFixes_ambSkyforge_Patch.esp
+											-	WeaponArmorFixes_GuardDialogueOverhaul_Patch.esp
+											-	DiversePriests_ConsistentOlderPeoplePatch.esp
+											-	AOS_ICS Patch.esp
+											-	AOS_ADS Patch.esp
+											-	AOS_RWT Patch.esp
 										*If these patches were downloaded and installed either untick them or uninstall them.
 										
 				>>EXTENDED PATCH USERS:	All patches from STEP Extended 2.2.8 were merged into this patch, those patches are listed below:
-											-	Disable WeaponArmorFixes_ambSkyforge_Patch.esp
-											-	Disable WeaponArmorFixes_GuardDialogueOverhaul_Patch.esp
-											-	Disable DiversePriests_ConsistentOlderPeoplePatch.esp
-											-	Disable DiversePriests_BringOutYourDeadPatch.esp
-											-	Disable BetterQuestObjectives-NECPatch.esp
-											-	Disable BetterQuestObjectives-PaarDilemmaPatch.esp
-											-	Disable BetterQuestObjectives-DBForevertoMisc.esp
-											-	Disable BetterQuestObjectives-AMBSkyforgePatch.esp
+											-	WeaponArmorFixes_ambSkyforge_Patch.esp
+											-	WeaponArmorFixes_GuardDialogueOverhaul_Patch.esp
+											-	DiversePriests_ConsistentOlderPeoplePatch.esp
+											-	DiversePriests_BringOutYourDeadPatch.esp
+											-	BetterQuestObjectives-NECPatch.esp
+											-	BetterQuestObjectives-PaarDilemmaPatch.esp
+											-	BetterQuestObjectives-DBForevertoMisc.esp
+											-	BetterQuestObjectives-AMBSkyforgePatch.esp
+											-	AOS_BlockSparkles Patch.esp
+											-	AOS_EBT Patch.esp
+											-	AOS_DSI Patch.esp
+											-	AOS_WetandCold Patch.esp
 										*If these patches were downloaded and installed either untick them or uninstall them.
 		
 				>>Bashed Patch users:	Wrye Bash users should make sure that the any of these patches load right before the Bashed Patch. When
@@ -55,7 +64,7 @@ Installation:	Use a mod manager to install the prefered plugin.
 
 STEP: CORE Patch	
 
-	-	Changes from 2.2.7:		This patch now includes both SMIM plugins for snowy chests and for Dragonborn Falseed Tern, because of this
+	-	Changes from 2.2.8:		This patch now includes both SMIM plugins for snowy chests and for Dragonborn Falseed Tern, because of this
 								permissions have changed. (see above)
 								Disable or remove these two plugins:
 									-	StaticMeshImprovementMod-FurnitureChestSnowFix.esp
@@ -66,10 +75,8 @@ STEP: CORE Patch
 								Forward a few locations that were not in RWT.
 								Patched mods that were in conflict with Audio Overhaul for Skyrim.
 									-	Realistic Water Two
-									-	Better Weapon Swing Sounds
 									-	Imrpoved Combat Sounds
 									-	Smooth Blade Draw & Sheathe
-									-	Better Weapon Impact Effects
 									
 	-	Forwrad all Worldspace edits from DLC and unofficial pathes
 		-	Forward additional Location names from Hearthfire for greater compatibiltiy with all mods
@@ -92,28 +99,25 @@ STEP: CORE Patch
 	-	Merged WAF-AMB Skyforge Weapons patch to eliminate plugin
 	-	Merged Diverse Priests-Consistent Older People patch to eliminate plugin
 	
-STEP: Extended Patch (this patch is imcomplete as of jan 8)
+STEP: Extended Patch
+	
+	-	Changes for 2.2.8:		All changes from STEP Core Patch since 2.2.7 (see above)
+								Patched mods that were in conflict with Audio Overhaul for Skyrim.
+									-	Improved Weapon Impact EFFECTS
+									-	Wet & Cold
+									-	Deadly Spell Impacts
+									-	Enhanced Blood Textures
 
 	-	Jan. 07 2014 Update:	Now compatible with Wearable Lanterns 3.0 and Skyrim Coin Replacer Redux instead of Skyrim Coin Replacer.
 	-	Nov. 26 2013 Update:	Now compatible with Weapon and Armor Fixes 4.0, minimal changes were needed.
 	-	Everything from STEP: CORE Patch carried over
-	-	Forward many fixes from USKP not in all three SoS mods on 'Cell' for names and 'Worldspace' for location names and weather data
 	-	Forward fixes from USKP to Bring Out Your Dead on 'Cell -> Block 2 -> Sub-Block 1 -> Hall of the Dead -> Persistent' for 6 coffin containers
 	-	Resolved conflict between Bring Out Your Dead and The Choice is Yours on NPC 'Perth'
 	-	Forward fixes from USKP to Elemental Staves on Weapon 'Staff of Thunderbolt'
 			-	Worldspace should be deleted from Elemental Staves plugin do to being completely unnecessary
 	-	Forward info count from Dawnguard that conflicted with Dragons Shout with Voice on 'Dialog Topic -> PushRoDah'
-	-	Forward any weapon or armor fixes from WAF over USKP since they do the same thing and WAF has stat changes that need to be present in any
-		patch where there is a mod farther down that changes the same record
-		-	Few exceptions were made:	-	Blade of Woe, USKP adds MaterialDaedric instead of MaterialEbony
-			(most of these changes		-	Dawnguard Armor and Weapon descriptions were removed so enchantments could be seen and the bonuses are now
-			are also in Core Patch)			a listed in load screens after starting the DG quest
-										-	DisallowEnchanting added to some items from USKP that were not in WAF, example Wuuthrad
-										-	Object bounds that USKP fixed were forwarded since WAF used the vanilla ones
 	-	Forward many fixes from USKP not in More Salt Please on 'Container'
-	-	Resolved conflict between SMIM Tern Fix and Ars Metallica - Dragonborn on 'Container' to forward SMIM meshe
-	-	Forward many fixes from USKP not in Clanking Armor on 'Armor Addon' to correct Biped Body Template
-	-	Resolved Conflict between Blessings - Altar Descriptions and The Choice is Yours on 'Acitvator', forward description change from Altar Descriptions
+	-	Resolved conflict between SMIM Tern Fix in STEP and Ars Metallica - Dragonborn on 'Container' to forward Ars crafting feathers.
 	-	Forward two fixes from USKP not in Disease Descriptions on 'Spell' for Witbane and Witbane (magicka regen halved)
 	-	Forward fix from USKP not in UHFP yet for 'NPC' Gralnach for tint layers and missing item (key to mill).
 	-	Merged Diverse Priests-BYOD patch to eliminate plugin
